@@ -4,7 +4,7 @@ This project demonstrates real-time object recognition using the ResNet50 deep l
 
 ## Requirements
 
-- Python 3.x
+- Python
 - OpenCV
 - Keras
 - TensorFlow
